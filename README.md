@@ -1,2 +1,10 @@
 # CS-250-8-2-Journal
-Sprint Review and Retrospective items
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+The user is a significant piece of completing a good program as they guide the team in the right direction to completiting the end product. User stories are a way that communicates how the user and the devopment team communicate with each other about the requirements and needs of the program. Through these user stories it helps clear up miscommunication and helps to open up times where communication can take place. Overall user needs and implimenting them into a program comes from user stories and shows the significance of proper communication from the end user and the whole program team to ultimantly create the ebst end product for the users who will be using it.
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+The agile method seemed to be the best way of approaching software programs whith its ability to go back and fourth and make changes and corrections easily as the project moves along. This si the apparaoch I would most lickly use as its leaves lots of room for change which een seen in this class change is necessary as the end user and product owner will want to make changes as they see exmaples or think of new thigns they may want as the team is working on the product. 
+
+What does it mean to be a good team member in software development?
+There are mnay different ways to be a good team member in software devopment from good communication between team memebers to keep them updated about what your doing which will hlpe impact the project and give clarity to the rest of the team of the work that is being done and why it is being done. ANother good aspect of a good team memeber is taking good notes inside and outside the code so if another coder needs to work on it they have a better undertanding of what is going on and making chnages are easier and quicker. Being a goo dteam emeber way also be someoen who is honest, dependable, adaptable, etc. All of these play a role in being a good team member and play a unique role in ahving a team that works well together for the untilmate goal of producing projects that work great and exceed the end users excpectations.
